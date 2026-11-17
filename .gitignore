@@ -1,0 +1,20 @@
+# environmental variables and secrets
+.env
+
+# python/bytecode
+.py[cod]
+*$py.class
+__pycache__/
+
+#virtualenv
+venv/
+env/
+ENV/
+
+#local database
+db.sqlite3
+
+#IDE and Os files
+.vscode/
+.DS_Store
+.ideaa/
